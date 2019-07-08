@@ -1,2 +1,2 @@
 # EEG-classification
-using
+Naive Bayes(manual), SVM, Logistic Regression 
